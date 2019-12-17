@@ -1,10 +1,10 @@
 # MDP value function and value-action function.
 
-![alt text](https://github.com/soarbear/mdp_value_iteration/blob/master/MDP_value_function_action_function.jpg)
+![alt text](https://github.com/soarbear/Reinforcement_Learning/blob/master/MDP_value_function_action_function.jpg)
 
 # Example
 
-![alt text](https://github.com/soarbear/mdp_value_iteration/blob/master/MDP_value_iteration.jpg)
+![alt text](https://github.com/soarbear/Reinforcement_Learning/blob/master/MDP_value_iteration.jpg)
 
 # Language
 
